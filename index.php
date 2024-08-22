@@ -16,7 +16,7 @@
 <body>
     <section>
         <div>
-            <h2>Parallax</h2>
+            <h2>Parallax Effect</h2>
             <p>THE BEST CSS COURSE EVER</p>
         </div>
     </section>
